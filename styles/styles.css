@@ -1,0 +1,32 @@
+.cover img {
+    height: 300px !important;
+}
+
+.leading-tight {
+    line-height: 0 !important;
+}
+
+.menuList svg {
+    margin-right: 7px;
+}
+
+@media screen and (max-width: 426px) {
+    .menuList {
+        left: 223px!important;
+    }
+}
+@media screen and (max-width: 376px) {
+    .menuList {
+        left: 172px!important;
+    }
+}
+@media screen and (max-width: 321px) {
+    .menuList {
+        left: 115px!important;
+    }
+}
+
+
+.spanWrap {
+    width: 60%;
+}
